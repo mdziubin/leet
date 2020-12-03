@@ -1,1 +1,1 @@
-# leet
+Leetcode practice (https://leetcode.com)
